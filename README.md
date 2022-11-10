@@ -1,5 +1,5 @@
 ### Hi there, I'm Alex 👋
-![[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/alexander-dam/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/alexander-dam/)
 
 #### Languages and Technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
